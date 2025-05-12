@@ -12,6 +12,6 @@ Meu nome é Claudio Gustavo
 
 - claudiogbg209@gmail.com
 
-- [@gustav_desingg](https://www.instagram.com/gustav_desingg/)
+
 
 ![](https://media1.tenor.com/m/t273D3EqiIYAAAAC/one-piece-luffy.gif)
