@@ -2,9 +2,9 @@
 
 Meu nome é Claudio Gustavo
 
-- Estou estudando na [Alura](https//www.alura.com.br)
+- Estou estudando n [Senac](https://www.sp.senac.br/)
   
-- Estou me desenvolvendo na linguagem JavaScript
+- Estou aprendendo a linguagem C# e SQL
 
 - Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
