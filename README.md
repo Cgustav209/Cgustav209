@@ -2,7 +2,7 @@
 
 Meu nome é Claudio Gustavo
 
-- Estou estudando n [Senac](https://www.sp.senac.br/)
+- Estou estudando no [Senac](https://www.sp.senac.br/)
   
 - Estou aprendendo a linguagem C# e SQL
 
