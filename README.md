@@ -1,11 +1,8 @@
 ### Opa! Bem vindo ao meu perfil 🤙
 
-Meu nome é Claudio Gustavo
+Meu nome é Claudio Gustavo, tenho 17 anos
 
 - Estou estudando no [Senac](https://www.sp.senac.br/)
-  
-- Estou aprendendo a linguagem C# e SQL
-
 - Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você pode entrar em contato comigo 📫
