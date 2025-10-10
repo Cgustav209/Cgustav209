@@ -1,7 +1,8 @@
 ### Opa! Bem vindo ao meu perfil 🤙
  
 <div>
-<a href="https://github.com/Bianca-Paiva">
+<a href="https://github.com/Cgustav209">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bianca-Paiva&layout=compact&langs_count=6&theme=tokyonight" style="max-width: 100%;">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bianca-Paiva&show_icons=true&theme=toky…
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bianca-Paiva&layout=compact&…
 </div>
