@@ -14,7 +14,7 @@
 <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
-<img align="center" alt="Figma" height="30" width="40" src="https://camo.githubusercontent.com/ba692e5cd1dbdcd4d251c9c2b65ee2f3483a0ebeb64037ed656d1f4581bd3adf/68747470733a2f2f7777772e67657a67696e6c65722e6e65742f696e6469722f726573696d2d67726166696b2f6e65742d382d313731353835333334352e706e67">
+src="https://camo.githubusercontent.com/ba692e5cd1dbdcd4d251c9c2b65ee2f3483a0ebeb64037ed656d1f4581bd3adf/68747470733a2f2f7777772e67657a67696e6c65722e6e65742f696e6469722f726573696d2d67726166696b2f6e65742d382d313731353835333334352e706e67">
  
 </div>
 <br style="line-height: 50px;">
