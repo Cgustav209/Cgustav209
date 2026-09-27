@@ -41,4 +41,4 @@ Sou técnico em Desenvolvimento de Sistemas pelo Senac, apaixonado por construir
 ### 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/claudio-gustavo-b-a2a291323/])
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[cgubarbosag1604@gnail.com])
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[cgubarbosag1604@gmail.com])
