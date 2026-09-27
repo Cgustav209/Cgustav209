@@ -1,6 +1,6 @@
 # Olá! Eu sou o Gustavo 👋
 
-**Desenvolvedor Full Stack | C# & .NET | React Native**
+**Desenvolvedor Full Stack | C# & .NET | React**
 
 Sou técnico em Desenvolvimento de Sistemas pelo Senac, apaixonado por construir soluções de ponta a ponta. Tenho facilidade em transitar por toda a esteira de desenvolvimento, desde a prototipagem de interfaces focadas no usuário até a estruturação de bancos de dados e APIs robustas.
 
