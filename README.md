@@ -1,16 +1,16 @@
 # Olá! Eu sou o Gustavo 👋
 
-**Desenvolvedor Full Stack | C# & .NET | React**
+>```Desenvolvedor Full Stack | C# & .NET | React```
 
 Sou técnico em Desenvolvimento de Sistemas pelo Senac, apaixonado por construir soluções de ponta a ponta. Tenho facilidade em transitar por toda a esteira de desenvolvimento, desde a prototipagem de interfaces focadas no usuário até a estruturação de bancos de dados e APIs robustas.
 
-### 🚀 O que estou fazendo agora
+>### 🚀 O que estou fazendo agora
 - Desenvolvendo o **LOCATEM** (Projeto Integrador), uma plataforma completa de aluguel de ferramentas. Atuo no fluxo de reservas, gestão de usuários e na integração do front-end com as APIs REST no back-end.
 - Aprofundando meus conhecimentos na criação de soluções mobile com React Native e multiplataforma com .NET MAUI.
 
 ---
 
-### 💻 Minhas Tecnologias e Ferramentas
+>### 💻 Minhas Tecnologias e Ferramentas
 
 **Front-end & Mobile:**  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,16 +30,23 @@ Sou técnico em Desenvolvimento de Sistemas pelo Senac, apaixonado por construir
 
 ---
 
-### 📊 Estatísticas do GitHub
-> 
+>### 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cgustav209&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do Gustavo" width="400"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cgustav209&theme=dracula&hide_border=true" alt="Estatísticas de Contribuição do Cláudio Gustavo" />
 </p>
 
 ---
 
-### 📫 Como me encontrar
+>### 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/claudio-gustavo-b-a2a291323/])
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[cgubarbosag1604@gmail.com])
+<div align="center">
+  <a href="[https://www.linkedin.com/in/claudio-gustavo-b-a2a291323/]">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:[cgubarbosag1604@gmail.com]">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+
